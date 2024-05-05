@@ -1,0 +1,15 @@
+C:\Users\compo\Desktop\C#Lessons\Lesson4Tasks\bin\Debug\net7.0\Lesson4Tasks.exe
+C:\Users\compo\Desktop\C#Lessons\Lesson4Tasks\bin\Debug\net7.0\Lesson4Tasks.deps.json
+C:\Users\compo\Desktop\C#Lessons\Lesson4Tasks\bin\Debug\net7.0\Lesson4Tasks.runtimeconfig.json
+C:\Users\compo\Desktop\C#Lessons\Lesson4Tasks\bin\Debug\net7.0\Lesson4Tasks.dll
+C:\Users\compo\Desktop\C#Lessons\Lesson4Tasks\bin\Debug\net7.0\Lesson4Tasks.pdb
+C:\Users\compo\Desktop\C#Lessons\Lesson4Tasks\obj\Debug\net7.0\Lesson4Tasks.csproj.AssemblyReference.cache
+C:\Users\compo\Desktop\C#Lessons\Lesson4Tasks\obj\Debug\net7.0\Lesson4Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compo\Desktop\C#Lessons\Lesson4Tasks\obj\Debug\net7.0\Lesson4Tasks.AssemblyInfoInputs.cache
+C:\Users\compo\Desktop\C#Lessons\Lesson4Tasks\obj\Debug\net7.0\Lesson4Tasks.AssemblyInfo.cs
+C:\Users\compo\Desktop\C#Lessons\Lesson4Tasks\obj\Debug\net7.0\Lesson4Tasks.csproj.CoreCompileInputs.cache
+C:\Users\compo\Desktop\C#Lessons\Lesson4Tasks\obj\Debug\net7.0\Lesson4Tasks.dll
+C:\Users\compo\Desktop\C#Lessons\Lesson4Tasks\obj\Debug\net7.0\refint\Lesson4Tasks.dll
+C:\Users\compo\Desktop\C#Lessons\Lesson4Tasks\obj\Debug\net7.0\Lesson4Tasks.pdb
+C:\Users\compo\Desktop\C#Lessons\Lesson4Tasks\obj\Debug\net7.0\Lesson4Tasks.genruntimeconfig.cache
+C:\Users\compo\Desktop\C#Lessons\Lesson4Tasks\obj\Debug\net7.0\ref\Lesson4Tasks.dll

@@ -1,0 +1,15 @@
+C:\Users\compo\Desktop\C#Lessons\Lesson5Tasks\bin\Debug\net7.0\Lesson5Tasks.exe
+C:\Users\compo\Desktop\C#Lessons\Lesson5Tasks\bin\Debug\net7.0\Lesson5Tasks.deps.json
+C:\Users\compo\Desktop\C#Lessons\Lesson5Tasks\bin\Debug\net7.0\Lesson5Tasks.runtimeconfig.json
+C:\Users\compo\Desktop\C#Lessons\Lesson5Tasks\bin\Debug\net7.0\Lesson5Tasks.dll
+C:\Users\compo\Desktop\C#Lessons\Lesson5Tasks\bin\Debug\net7.0\Lesson5Tasks.pdb
+C:\Users\compo\Desktop\C#Lessons\Lesson5Tasks\obj\Debug\net7.0\Lesson5Tasks.csproj.AssemblyReference.cache
+C:\Users\compo\Desktop\C#Lessons\Lesson5Tasks\obj\Debug\net7.0\Lesson5Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compo\Desktop\C#Lessons\Lesson5Tasks\obj\Debug\net7.0\Lesson5Tasks.AssemblyInfoInputs.cache
+C:\Users\compo\Desktop\C#Lessons\Lesson5Tasks\obj\Debug\net7.0\Lesson5Tasks.AssemblyInfo.cs
+C:\Users\compo\Desktop\C#Lessons\Lesson5Tasks\obj\Debug\net7.0\Lesson5Tasks.csproj.CoreCompileInputs.cache
+C:\Users\compo\Desktop\C#Lessons\Lesson5Tasks\obj\Debug\net7.0\Lesson5Tasks.dll
+C:\Users\compo\Desktop\C#Lessons\Lesson5Tasks\obj\Debug\net7.0\refint\Lesson5Tasks.dll
+C:\Users\compo\Desktop\C#Lessons\Lesson5Tasks\obj\Debug\net7.0\Lesson5Tasks.pdb
+C:\Users\compo\Desktop\C#Lessons\Lesson5Tasks\obj\Debug\net7.0\Lesson5Tasks.genruntimeconfig.cache
+C:\Users\compo\Desktop\C#Lessons\Lesson5Tasks\obj\Debug\net7.0\ref\Lesson5Tasks.dll
