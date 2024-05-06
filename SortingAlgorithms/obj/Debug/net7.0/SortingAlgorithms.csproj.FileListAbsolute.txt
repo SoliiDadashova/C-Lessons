@@ -1,0 +1,15 @@
+C:\Users\compo\Desktop\C#Lessons\SortingAlgorithms\bin\Debug\net7.0\SortingAlgorithms.exe
+C:\Users\compo\Desktop\C#Lessons\SortingAlgorithms\bin\Debug\net7.0\SortingAlgorithms.deps.json
+C:\Users\compo\Desktop\C#Lessons\SortingAlgorithms\bin\Debug\net7.0\SortingAlgorithms.runtimeconfig.json
+C:\Users\compo\Desktop\C#Lessons\SortingAlgorithms\bin\Debug\net7.0\SortingAlgorithms.dll
+C:\Users\compo\Desktop\C#Lessons\SortingAlgorithms\bin\Debug\net7.0\SortingAlgorithms.pdb
+C:\Users\compo\Desktop\C#Lessons\SortingAlgorithms\obj\Debug\net7.0\SortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\compo\Desktop\C#Lessons\SortingAlgorithms\obj\Debug\net7.0\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compo\Desktop\C#Lessons\SortingAlgorithms\obj\Debug\net7.0\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\compo\Desktop\C#Lessons\SortingAlgorithms\obj\Debug\net7.0\SortingAlgorithms.AssemblyInfo.cs
+C:\Users\compo\Desktop\C#Lessons\SortingAlgorithms\obj\Debug\net7.0\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\compo\Desktop\C#Lessons\SortingAlgorithms\obj\Debug\net7.0\SortingAlgorithms.dll
+C:\Users\compo\Desktop\C#Lessons\SortingAlgorithms\obj\Debug\net7.0\refint\SortingAlgorithms.dll
+C:\Users\compo\Desktop\C#Lessons\SortingAlgorithms\obj\Debug\net7.0\SortingAlgorithms.pdb
+C:\Users\compo\Desktop\C#Lessons\SortingAlgorithms\obj\Debug\net7.0\SortingAlgorithms.genruntimeconfig.cache
+C:\Users\compo\Desktop\C#Lessons\SortingAlgorithms\obj\Debug\net7.0\ref\SortingAlgorithms.dll
