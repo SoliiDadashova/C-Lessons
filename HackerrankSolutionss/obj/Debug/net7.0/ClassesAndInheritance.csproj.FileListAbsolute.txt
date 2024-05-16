@@ -1,0 +1,15 @@
+C:\Users\compo\Desktop\C#Lessons\HackerrankSolutionss\bin\Debug\net7.0\ClassesAndInheritance.exe
+C:\Users\compo\Desktop\C#Lessons\HackerrankSolutionss\bin\Debug\net7.0\ClassesAndInheritance.deps.json
+C:\Users\compo\Desktop\C#Lessons\HackerrankSolutionss\bin\Debug\net7.0\ClassesAndInheritance.runtimeconfig.json
+C:\Users\compo\Desktop\C#Lessons\HackerrankSolutionss\bin\Debug\net7.0\ClassesAndInheritance.dll
+C:\Users\compo\Desktop\C#Lessons\HackerrankSolutionss\bin\Debug\net7.0\ClassesAndInheritance.pdb
+C:\Users\compo\Desktop\C#Lessons\HackerrankSolutionss\obj\Debug\net7.0\ClassesAndInheritance.csproj.AssemblyReference.cache
+C:\Users\compo\Desktop\C#Lessons\HackerrankSolutionss\obj\Debug\net7.0\ClassesAndInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compo\Desktop\C#Lessons\HackerrankSolutionss\obj\Debug\net7.0\ClassesAndInheritance.AssemblyInfoInputs.cache
+C:\Users\compo\Desktop\C#Lessons\HackerrankSolutionss\obj\Debug\net7.0\ClassesAndInheritance.AssemblyInfo.cs
+C:\Users\compo\Desktop\C#Lessons\HackerrankSolutionss\obj\Debug\net7.0\ClassesAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\compo\Desktop\C#Lessons\HackerrankSolutionss\obj\Debug\net7.0\ClassesAndInheritance.dll
+C:\Users\compo\Desktop\C#Lessons\HackerrankSolutionss\obj\Debug\net7.0\refint\ClassesAndInheritance.dll
+C:\Users\compo\Desktop\C#Lessons\HackerrankSolutionss\obj\Debug\net7.0\ClassesAndInheritance.pdb
+C:\Users\compo\Desktop\C#Lessons\HackerrankSolutionss\obj\Debug\net7.0\ClassesAndInheritance.genruntimeconfig.cache
+C:\Users\compo\Desktop\C#Lessons\HackerrankSolutionss\obj\Debug\net7.0\ref\ClassesAndInheritance.dll
