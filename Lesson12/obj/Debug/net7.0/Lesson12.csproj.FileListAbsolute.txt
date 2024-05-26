@@ -1,0 +1,15 @@
+C:\Users\compo\Desktop\C#Lessons\Lesson12\bin\Debug\net7.0\Lesson12.exe
+C:\Users\compo\Desktop\C#Lessons\Lesson12\bin\Debug\net7.0\Lesson12.deps.json
+C:\Users\compo\Desktop\C#Lessons\Lesson12\bin\Debug\net7.0\Lesson12.runtimeconfig.json
+C:\Users\compo\Desktop\C#Lessons\Lesson12\bin\Debug\net7.0\Lesson12.dll
+C:\Users\compo\Desktop\C#Lessons\Lesson12\bin\Debug\net7.0\Lesson12.pdb
+C:\Users\compo\Desktop\C#Lessons\Lesson12\obj\Debug\net7.0\Lesson12.csproj.AssemblyReference.cache
+C:\Users\compo\Desktop\C#Lessons\Lesson12\obj\Debug\net7.0\Lesson12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compo\Desktop\C#Lessons\Lesson12\obj\Debug\net7.0\Lesson12.AssemblyInfoInputs.cache
+C:\Users\compo\Desktop\C#Lessons\Lesson12\obj\Debug\net7.0\Lesson12.AssemblyInfo.cs
+C:\Users\compo\Desktop\C#Lessons\Lesson12\obj\Debug\net7.0\Lesson12.csproj.CoreCompileInputs.cache
+C:\Users\compo\Desktop\C#Lessons\Lesson12\obj\Debug\net7.0\Lesson12.dll
+C:\Users\compo\Desktop\C#Lessons\Lesson12\obj\Debug\net7.0\refint\Lesson12.dll
+C:\Users\compo\Desktop\C#Lessons\Lesson12\obj\Debug\net7.0\Lesson12.pdb
+C:\Users\compo\Desktop\C#Lessons\Lesson12\obj\Debug\net7.0\Lesson12.genruntimeconfig.cache
+C:\Users\compo\Desktop\C#Lessons\Lesson12\obj\Debug\net7.0\ref\Lesson12.dll
