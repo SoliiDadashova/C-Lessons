@@ -1,0 +1,15 @@
+C:\Users\compo\Desktop\C#Lessons\Taks3\bin\Debug\net7.0\Taks3.exe
+C:\Users\compo\Desktop\C#Lessons\Taks3\bin\Debug\net7.0\Taks3.deps.json
+C:\Users\compo\Desktop\C#Lessons\Taks3\bin\Debug\net7.0\Taks3.runtimeconfig.json
+C:\Users\compo\Desktop\C#Lessons\Taks3\bin\Debug\net7.0\Taks3.dll
+C:\Users\compo\Desktop\C#Lessons\Taks3\bin\Debug\net7.0\Taks3.pdb
+C:\Users\compo\Desktop\C#Lessons\Taks3\obj\Debug\net7.0\Taks3.csproj.AssemblyReference.cache
+C:\Users\compo\Desktop\C#Lessons\Taks3\obj\Debug\net7.0\Taks3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compo\Desktop\C#Lessons\Taks3\obj\Debug\net7.0\Taks3.AssemblyInfoInputs.cache
+C:\Users\compo\Desktop\C#Lessons\Taks3\obj\Debug\net7.0\Taks3.AssemblyInfo.cs
+C:\Users\compo\Desktop\C#Lessons\Taks3\obj\Debug\net7.0\Taks3.csproj.CoreCompileInputs.cache
+C:\Users\compo\Desktop\C#Lessons\Taks3\obj\Debug\net7.0\Taks3.dll
+C:\Users\compo\Desktop\C#Lessons\Taks3\obj\Debug\net7.0\refint\Taks3.dll
+C:\Users\compo\Desktop\C#Lessons\Taks3\obj\Debug\net7.0\Taks3.pdb
+C:\Users\compo\Desktop\C#Lessons\Taks3\obj\Debug\net7.0\Taks3.genruntimeconfig.cache
+C:\Users\compo\Desktop\C#Lessons\Taks3\obj\Debug\net7.0\ref\Taks3.dll

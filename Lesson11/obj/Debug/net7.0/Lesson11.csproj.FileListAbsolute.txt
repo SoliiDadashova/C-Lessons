@@ -1,0 +1,17 @@
+C:\Users\compo\Desktop\C#Lessons\Lesson11\bin\Debug\net7.0\Lesson11.exe
+C:\Users\compo\Desktop\C#Lessons\Lesson11\bin\Debug\net7.0\Lesson11.deps.json
+C:\Users\compo\Desktop\C#Lessons\Lesson11\bin\Debug\net7.0\Lesson11.runtimeconfig.json
+C:\Users\compo\Desktop\C#Lessons\Lesson11\bin\Debug\net7.0\Lesson11.dll
+C:\Users\compo\Desktop\C#Lessons\Lesson11\bin\Debug\net7.0\Lesson11.pdb
+C:\Users\compo\Desktop\C#Lessons\Lesson11\obj\Debug\net7.0\Lesson11.csproj.AssemblyReference.cache
+C:\Users\compo\Desktop\C#Lessons\Lesson11\obj\Debug\net7.0\Lesson11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compo\Desktop\C#Lessons\Lesson11\obj\Debug\net7.0\Lesson11.AssemblyInfoInputs.cache
+C:\Users\compo\Desktop\C#Lessons\Lesson11\obj\Debug\net7.0\Lesson11.AssemblyInfo.cs
+C:\Users\compo\Desktop\C#Lessons\Lesson11\obj\Debug\net7.0\Lesson11.csproj.CoreCompileInputs.cache
+C:\Users\compo\Desktop\C#Lessons\Lesson11\obj\Debug\net7.0\Lesson11.dll
+C:\Users\compo\Desktop\C#Lessons\Lesson11\obj\Debug\net7.0\refint\Lesson11.dll
+C:\Users\compo\Desktop\C#Lessons\Lesson11\obj\Debug\net7.0\Lesson11.pdb
+C:\Users\compo\Desktop\C#Lessons\Lesson11\obj\Debug\net7.0\Lesson11.genruntimeconfig.cache
+C:\Users\compo\Desktop\C#Lessons\Lesson11\obj\Debug\net7.0\ref\Lesson11.dll
+C:\Users\compo\Desktop\C#Lessons\Lesson11\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\compo\Desktop\C#Lessons\Lesson11\obj\Debug\net7.0\Lesson11.csproj.CopyComplete
