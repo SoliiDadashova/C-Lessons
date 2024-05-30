@@ -1,7 +1,0 @@
-Book's name: The Great Gatsby
-Book's Author: F. Scott Fitzgerald
-Book's Genre: Fiction
-Book's ID: c4a984ed-b889-4d5d-ab83-a68b46806ba1
-IsRead: True
-IsFavorite: True
-ISBN: 978-3-16-148410-0
