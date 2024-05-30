@@ -1,0 +1,6 @@
+30.05.2024.11.02.33: The input string 'ss' was not in a correct format.
+
+30.05.2024.11.05.25: Attempted to divide by zero.
+
+30.05.2024.11.05.33: The input string 'w' was not in a correct format.
+
